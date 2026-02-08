@@ -36,3 +36,4 @@ else:
 # Close connection
 cursor.close()
 connection.close()
+
